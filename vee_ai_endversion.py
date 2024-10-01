@@ -2,6 +2,18 @@ from playwright.sync_api import sync_playwright
 import pytchat
 import time
 import logging
+from rich.console import Console
+from rich.text import Text
+
+# Inisialisasi console rich
+console = Console()
+
+# Menampilkan watermark di bagian awal
+watermark_text = Text("YouTube Live Chat Notification", style="bold blue")
+author_text = Text("by: tobeoren", style="bold cyan")
+
+console.print(watermark_text, justify="center")
+console.print(author_text, justify="center")
 
 # Konfigurasi logging
 logging.basicConfig(level=logging.INFO)
