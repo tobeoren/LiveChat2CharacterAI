@@ -9,7 +9,7 @@ from rich.text import Text
 console = Console()
 
 # Menampilkan watermark di bagian awal
-watermark_text = Text("YouTube Live Chat Notification", style="bold blue")
+watermark_text = Text("LiveChat Youtube to Character.AI", style="bold blue")
 author_text = Text("by: tobeoren", style="bold cyan")
 
 console.print(watermark_text, justify="center")
