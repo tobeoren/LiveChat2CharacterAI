@@ -49,9 +49,25 @@ This script connects to a live YouTube chat and automatically sends messages to 
 4. **Interact with the Bot**: The script will start monitoring the live chat. Messages will be sent to the Character.ai chat as long as the script is running.
 
 # IF YOU WANT TO SUPPORT ME
+Ko-fi : https://ko-fi.com/xzeest
+
+<img width="112" alt="image" src="https://github.com/user-attachments/assets/e9767543-a0cd-4a95-b89c-a38acd5c2d2d">
+
+Trakteer : https://trakteer.id/xzeeest/tip?open=true
+
+<img width="113" alt="image" src="https://github.com/user-attachments/assets/cb2618f6-a5d3-41cb-866f-e9d5faeeaf8b">
+
+Streamlabs : https://streamlabs.com/xzeeest
+
+<img width="110" alt="image" src="https://github.com/user-attachments/assets/27f5f15f-462e-49fe-b774-ccf3efb5cfc0">
+
+
+---
+
 - EVM ADDRESS: 0x491d7397212c55da8352d7733d2513393a362ae9
 - SOLANA: 5MNBgtrsasfqenxb75ZLjd4epjB2TUKf9fbxfw143kq6
 - BTC: bc1pts2fvykemcdyk2rg37al8chdc4uxptwg82w3nf0j02smzrtm9a6sp5dldc
 - TON: UQCnGIFDBtrvJC9LtkcVa3SrkS3ifb2qZxZX3r-abZ-4GG1D
 
 ---
+
