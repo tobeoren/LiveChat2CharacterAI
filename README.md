@@ -4,6 +4,9 @@
 
 This script connects to a live YouTube chat and automatically sends messages to a Character.ai chat based on the messages received in the live chat. It filters out messages containing certain blacklisted words to ensure only appropriate messages are sent. The script uses the Playwright library for browser automation and Pytchat for retrieving live chat messages.
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/29128c9d-6fd6-4368-b631-d050e922ebd7">
+
+
 ---
 
 # Features
